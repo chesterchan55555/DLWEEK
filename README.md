@@ -3,5 +3,5 @@ Forming Financial Prediction through Sentiment Analysis and Deep Learning of med
 Showcasing the possibility of firms manipulating the market
 
 ## Features
-Demonstrate ML and DL Models to compare Actual Stock Prices with Predicted Stock Prices.
-//Extrapolates future stock prices using models
+- Demonstrate ML and DL Models to compare Actual Stock Prices with Predicted Stock Prices.
+- Extrapolates future stock prices using models
